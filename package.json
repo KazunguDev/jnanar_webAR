@@ -2,6 +2,7 @@
   "name": "jnanar_web_ar_system",
   "version": "1.0.0",
   "description": "web augmented reality framework",
+  "homepage":"https://jnanar.com/",
   "main": "index.js",
   "scripts": {
     "dev": "vite --config vite.config.dev.js",
