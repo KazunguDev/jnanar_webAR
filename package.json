@@ -1,6 +1,6 @@
 {
-  "name": "mind-ar",
-  "version": "1.2.3",
+  "name": "jnanar_web_ar_system",
+  "version": "1.0.0",
   "description": "web augmented reality framework",
   "main": "index.js",
   "scripts": {
